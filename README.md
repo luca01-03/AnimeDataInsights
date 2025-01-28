@@ -1,6 +1,6 @@
 # AnimeDataInsights
 
-AnimeDataInsights is a project aimed at extracting, processing, analysing, and visualising anime data to uncover insights into anime genres, studios, and viewer preferences. This project leverages data from the MyAnimeList.net API, processes it through various data processing techniques, and finally uses tableau for visualisation. 
+AnimeDataInsights is a project aimed at extracting, processing, analysing, and visualising anime data to uncover insights into anime genres, studios, and viewer preferences. This project gets it data from the MyAnimeList.net API, processes it through various data processing techniques, and finally uses tableau for visualisation. 
 
 # Project Structure
 
@@ -16,7 +16,7 @@ Genre_Classification.py: This script was dedicated at an attempt to classifying 
 
 # Visualisation
 
-The project uses Tableau for data visualizsation, offering an insightful dashboard and graphs that highlight trends in anime genres, top studios, and anime production over the years. These visualisations provide a good landscape from which to understand the anime industry. The visualisation can be found here: https://public.tableau.com/views/AnimeAnalysis_17095682924010/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
+The project uses Tableau for data visualizsation. The visualisation can be found here: https://public.tableau.com/views/AnimeAnalysis_17095682924010/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link
 
 
 
